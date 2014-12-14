@@ -1,9 +1,0 @@
-('/windows/D/Users/fabior/workspace/TableauxProofTool-v0.1.1/build/TableauxProofTool/TableauxProofTool',
- True,
- False,
- None,
- None,
- [],
- None,
- False,
- 1417715297)
