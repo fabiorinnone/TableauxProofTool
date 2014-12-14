@@ -1,0 +1,16 @@
+TableauxProofTool
+=================
+
+Per eseguire l'applicazione lanciare l'eseguibile TableauxProofTool nella directory dist
+dopo essersi assicurati che abbia i permessi di esecuzione per l'utente.
+
+Per ulteriori informazioni inviare un'email a fabio.rinnone0@gmail.com.
+
+Novità della versione 0.1.1:
+
+1) Migliorate le prestazioni del parser delle formule in input (algoritmo packrat)
+2) Fix bug nella definizione della grammatica del parser per le formule in input.
+3) Fix bug nell'eliminazione delle formule da non espandere nella dimostrazione.
+4) I file accettati in input sono con l'estensione .in e non più .txt
+5) Fixed bug dimostrazioni con metodo classico, merging e lemmi
+6) Riscritto totalmente algoritmo KE
